@@ -82,7 +82,7 @@ export default async function MainPage() {
                         <div className="absolute inset-0 bg-gradient-to-t from-orange-400/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-3xl" />
                         
                         {/* Caption card */}
-                        <div className="absolute bottom-2 left-2 right-2 transform translate-y-full group-hover:translate-y-0 transition-transform duration-300">
+                        <div className="absolute bottom-3 left-2 right-2 transform">
                           <div 
                             className="rounded-2xl p-3 shadow-lg"
                             style={{ background: '#fff5e4' }}
